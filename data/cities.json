@@ -37,16 +37,28 @@
       "id": 98443199
     },
     {
-      "cityName": "Stockholm",
-      "country": "Sweden",
-      "emoji": "🇸🇪",
-      "date": "2024-04-17T20:27:46.058Z",
-      "notes": "Beautiful, clean and modern.",
+      "cityName": "Dublin",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2024-04-18T00:18:37.319Z",
+      "notes": "A must visit on our traveling plans",
       "position": {
-        "lat": "59.29955167361263",
-        "lng": "18.083496093750004"
+        "lat": "53.330872983017066",
+        "lng": "-6.240234375"
       },
-      "id": 98443201
+      "id": 98443202
+    },
+    {
+      "cityName": "Malta",
+      "country": "Malta",
+      "emoji": "🇲🇹",
+      "date": "2024-04-18T17:44:01.175Z",
+      "notes": "Fabulous",
+      "position": {
+        "lat": "35.7643434796672",
+        "lng": "14.655761718750002"
+      },
+      "id": 98443203
     }
   ]
 }
